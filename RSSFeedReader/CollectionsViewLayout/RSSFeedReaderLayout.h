@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  RSSFeedReaderLayout.h
 //  RSSFeedReader
 //
 //  Created by Qi Zhan on 9/18/19.
@@ -8,10 +8,10 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
+NS_ASSUME_NONNULL_BEGIN
 
-@property (strong, nonatomic) UIWindow *window;
-
+@interface RSSFeedReaderLayout : UICollectionViewLayout
 
 @end
 
+NS_ASSUME_NONNULL_END

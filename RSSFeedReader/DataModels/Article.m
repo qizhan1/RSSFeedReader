@@ -1,15 +1,14 @@
 //
-//  ViewController.h
+//  Article.m
 //  RSSFeedReader
 //
 //  Created by Qi Zhan on 9/18/19.
 //  Copyright © 2019 Qi Zhan. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import "Article.h"
 
-@interface ViewController : UIViewController
-
+@implementation Article
 
 @end
 
